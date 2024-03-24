@@ -12,6 +12,11 @@
 </head>
 
 <body class="antialiased">
+    @if (session()->has('message'))
+        <div class="success-message">
+            {{ session('message') }}
+        </div>
+    @endif
     {{ $slot }}
 </body>
 
