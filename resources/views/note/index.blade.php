@@ -21,6 +21,8 @@
                 </div>
             @endforeach
         </div>
-        {{ $notes->links() }}
+        <div class="p-6">
+            {{ $notes->links() }}
+        </div>
     </div>
 </x-app-layout>
