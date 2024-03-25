@@ -10,7 +10,9 @@
 ## About The Project
 
 Laravel 11 Tutorial for Beginners - Laravel Crash Course (2024)
+
 Presented by Zura from The Codeholic
+
 Link: https://youtu.be/eUNWzJUvkCA?si=d8D-VvNPVaUwYa33
 
 ## About Laravel
